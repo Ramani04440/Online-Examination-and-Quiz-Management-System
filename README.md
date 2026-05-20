@@ -77,5 +77,4 @@ The design focuses on delivering a seamless and user-friendly experience for **S
 
 Added Soon !!
 
-```text
-https://www.figma.com/file/YOUR_FILE_LINK
+
